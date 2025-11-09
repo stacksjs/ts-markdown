@@ -81,7 +81,7 @@
     "js-yaml": "^4.1.0",
     "markdown-it": "^14.1.0",
     "marked": "^17.0.0",
-    "mitata": "^1.0.10",
+    "mitata": "^1.0.34",
     "remark": "^15.0.1",
     "remark-html": "^16.0.1",
     "showdown": "^2.1.0"
